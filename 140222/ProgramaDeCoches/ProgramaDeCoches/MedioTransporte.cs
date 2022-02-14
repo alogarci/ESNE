@@ -9,5 +9,6 @@ namespace ProgramaDeCoches
         public int numPasajeros;
         public int cargaMaxima;
         public int peso;
+        public bool publico;
     }
 }
